@@ -1,0 +1,62 @@
+Create a complete **Pet Shop Website** called **PawHaven** using only **HTML5 and CSS3**.
+
+### Requirements
+
+* Create **10 fully responsive pages**:
+
+  1. Home
+  2. Dogs
+  3. Cats
+  4. Birds
+  5. Fish
+  6. Small Pets
+  7. Pet Food
+  8. Pet Accessories
+  9. About Us
+  10. Contact
+* Add a clean, modern, professional pet-shop UI.
+* Use **CSS Grid and Flexbox** for layouts.
+* Make the website responsive on desktop, tablet, and mobile.
+* Add pet/product cards with **images, names, descriptions, and prices in ₹ (INR)**.
+* Use **online Google/Unsplash image URLs**; do not require local image files.
+* Use only **black and white icons**, preferably Font Awesome icons.
+* Do **not** use 3D icons.
+* Do not use Bootstrap or Tailwind.
+* Do not use JavaScript.
+* Add a responsive navbar, hero sections, category sections, product grids, CTA sections, contact form, and footer.
+* Add smooth CSS hover effects and transitions.
+* Keep the design clean, attractive, readable, and suitable for a **student minor project**.
+* Use a consistent header, navigation, typography, spacing, and footer across all pages.
+
+### Example Prices
+
+* Golden Retriever — ₹35,000
+* Labrador Retriever — ₹28,000
+* German Shepherd — ₹32,000
+* Persian Cat — ₹18,000
+* British Shorthair — ₹25,000
+* Lovebird — ₹2,500
+* Cockatiel — ₹5,000
+* Goldfish — ₹300
+* Betta Fish — ₹500
+* Rabbit — ₹3,000
+* Guinea Pig — ₹2,000
+* Hamster — ₹1,500
+
+### Files
+
+Create:
+
+* `index.html`
+* `dogs.html`
+* `cats.html`
+* `birds.html`
+* `fish.html`
+* `small-pets.html`
+* `pet-food.html`
+* `accessories.html`
+* `about.html`
+* `contact.html`
+* `style.css`
+
+Provide **complete, standalone code for every HTML page and the shared CSS file**.
